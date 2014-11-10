@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileBackup", "FileBackup\FileBackup.csproj", "{5770A002-692A-4D06-BD9B-360404354A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5770A002-692A-4D06-BD9B-360404354A97}.Debug|x86.ActiveCfg = Debug|x86
+		{5770A002-692A-4D06-BD9B-360404354A97}.Debug|x86.Build.0 = Debug|x86
+		{5770A002-692A-4D06-BD9B-360404354A97}.Release|x86.ActiveCfg = Release|x86
+		{5770A002-692A-4D06-BD9B-360404354A97}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
